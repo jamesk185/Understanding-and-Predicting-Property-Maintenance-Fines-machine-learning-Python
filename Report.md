@@ -342,7 +342,7 @@ plt.show()
 ```
 
 
-![png](output_34_0.png)
+![png](Figure.png)
 
 
 Checking for nans one last time shows the presence of some in the lat and lon variables.
